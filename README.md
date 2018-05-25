@@ -19,6 +19,6 @@ Download the files here:
 
 # Things to do:
 - [x] Release usable script.
-- [ ] Add ping test.
+- [x] Add ping test.
 - [ ] Add customization options.
 - [ ] Combine Windows 8.1 and under and Windows 10 into a script file. (Either .ps1 or .cmd/.bat)
