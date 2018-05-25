@@ -1,0 +1,22 @@
+color 17
+echo off
+cls
+Echo Windows 8.1 and under version
+echo Run as administrator for this to work!!!
+netsh int tcp set global chimney=enabled
+netsh int tcp set global autotuninglevel=normal
+netsh int tcp set global congestionprovider=ctcp
+echo ________________________________________________________________________________
+echo We have changed settings that may speed up your internet connection
+echo but you need to restart computer.
+pause
+cls
+echo Here are the changes...
+netsh int tcp show global
+echo ............
+echo ............
+echo 1: "netsh int tcp set global chimney=enabled"
+echo 2: "netsh int tcp set global autotuninglevel=normal"
+echo 3: "netsh int tcp set global congestionprovider=ctcp"
+pause
+exit
