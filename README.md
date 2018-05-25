@@ -15,6 +15,10 @@ Download the files here:
 
 - Beta Builds for Windows 10: http://www.mediafire.com/folder/ous3m7rwrlsus/Windows_10_Beta
 
-*Beta Builds are versions i am working on that may or may not work and may cause problems with your system or internet so use at your own risk.
+*Beta Builds are versions i am working on that may or may not work and may cause problems with your system or internet so use at your own risk.  
 
-*Any edits to the code should be posted so i can test your code and add it to a new updated version of the script for others to enjoy.  
+# Things to do:
+- [x] Release usable script.
+- [ ] Add ping test.
+- [ ] Add customization options.
+- [ ] Combine Windows 8.1 and under and Windows 10 into a script file. (Either .ps1 or .cmd/.bat)
