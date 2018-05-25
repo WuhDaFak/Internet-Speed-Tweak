@@ -17,6 +17,4 @@ Download the files here:
 
 *Beta Builds are versions i am working on that may or may not work and may cause problems with your system or internet so use at your own risk.
 
-*Any edits to the code should be posted so i can test your code and add it to a new updated version of the script for others to enjoy.
-
-*Do not copy my code and claim it as your own. Give credit where it is due. 
+*Any edits to the code should be posted so i can test your code and add it to a new updated version of the script for others to enjoy.  
