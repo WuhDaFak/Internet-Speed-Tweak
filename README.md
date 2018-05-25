@@ -1,4 +1,4 @@
-# Internet Speed Tweak batch script by thepcwiz101 aka SpeedUpThatComputer.
+# Internet Speed Tweak script by thepcwiz101 aka SpeedUpThatComputer.
 
 A batch script on windows that improves internet connection speed.
 
