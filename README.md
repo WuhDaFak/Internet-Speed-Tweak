@@ -4,6 +4,10 @@ A batch script on windows that improves internet connection speed.
 
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
+Current stable version: V0.2
+
+Current beta Version: No beta released yet
+
 # Downloads
 
 Download the files here:
@@ -28,4 +32,6 @@ http://www.mediafire.com/folder/ous3m7rwrlsus/Windows_10_Beta
 - [x] Add ping test.
 - [ ] Implement new tweaks.
 - [ ] Add customization options.
-- [ ] Combine Windows 8.1 and under and Windows 10 into a script file. (Either .ps1 or .cmd/.bat)
+- [ ] Combine Windows 8.1 and under and Windows 10 into a single script file. (Either .ps1 or .bat) 
+
+hopefully this happens before reaching V1.0
