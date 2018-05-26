@@ -8,6 +8,8 @@ Current stable version: V0.2
 
 Current beta Version: No beta released yet
 
+Notice: I am investigating changes made by microsoft with netsh in windows 10 so these tweaks may not work on your system or show none to little effect due to those changes.
+
 # Downloads
 
 Download the files here:
