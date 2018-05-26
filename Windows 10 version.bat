@@ -1,7 +1,7 @@
 color 17
 echo off
 cls
-echo Windows 10 version
+echo Windows 10 edition V0.2 
 echo Run as administrator for this to work!!!
 set /p q1=Do you want to do a ping test?-
 if "%q1%" == "yes" goto :yes
