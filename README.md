@@ -34,6 +34,6 @@ http://www.mediafire.com/folder/ous3m7rwrlsus/Windows_10_Beta
 - [x] Add ping test.
 - [ ] Implement new tweaks.
 - [ ] Add customization options.
-- [ ] Combine Windows 8.1 and under and Windows 10 into a single script file. (Either .ps1 or .bat) 
+- [ ] Combine Windows 8.1 and under and Windows 10 into a single script file. (Either .ps1 or .bat) if possible (limited knowledge of powershell) 
 
 hopefully this happens before reaching V1.0
