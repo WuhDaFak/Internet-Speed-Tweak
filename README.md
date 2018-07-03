@@ -4,8 +4,7 @@ A batch script on windows that improves internet connection speed.
 
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
-Current stable version (Windows 8.1 and under): V0.2
-Current stable version (Windows 10): V0.2 
+Current stable version: V0.2
 
 Current beta Version: No beta released yet
 
