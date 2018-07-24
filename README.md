@@ -7,9 +7,11 @@ very high internet speed this script is not for you as it is not beneficial.
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
 Current stable version for windows 10: V0.3
+
 Current stable version for windows 8.1 and under: V0.2
 
 Current beta version for windows 10: No beta released
+
 Current beta version for windows 8.1 and below: No beta released
 
 # Downloads
