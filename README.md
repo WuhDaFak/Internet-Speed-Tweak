@@ -1,6 +1,7 @@
 # Internet Speed Tweak script by: thepcwiz101
 
-A batch script on windows that Attempts to improve internet connection speed.
+A batch script on windows that attempts to improve internet connection speed.
+
 Notice: This may not work or it may actually slow your connection speed depending on your configuration and internet speed. If you have 
 very high internet speed this script is not for you as it is not beneficial.
 
