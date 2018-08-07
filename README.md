@@ -3,7 +3,7 @@
 A batch script on windows that attempts to improve internet connection speed.
 
 Notice: This may not work or it may actually slow your connection speed depending on your configuration and internet speed. If you have 
-very high internet speed this script is not for you as it is not beneficial.
+very high internet speed this script is not for you as it may not be beneficial to you but feel free to try at your own risk.
 
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
