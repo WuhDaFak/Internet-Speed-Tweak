@@ -7,17 +7,11 @@ very high internet speed this script is not for you as it may not be beneficial 
 
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
-Current stable version: V1.0 Public Release
+Current stable version: V1.1 "Simplifying" update
 
 
 # Downloads
 
-Download here:
-http://www.mediafire.com/folder/3xga1q3oyzw9x/Internet_Speed_Tweak
-
-
-# Things to do:
-- [x] Release usable script.
-- [x] Add ping test.
-- [x] Implement new tweaks. (If Microsoft adds new options file an issue.)
-- [x] Combine Windows 8.1 and under and Windows 10 into a single script file.
+Download here: http://www.mediafire.com/folder/3xga1q3oyzw9x/Internet_Speed_Tweak
+or 
+Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
