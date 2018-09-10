@@ -13,5 +13,7 @@ Current stable version: V1.1 "Simplifying" update
 # Downloads
 
 Download here: http://www.mediafire.com/folder/3xga1q3oyzw9x/Internet_Speed_Tweak
+
 or 
+
 Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
