@@ -1,22 +1,32 @@
 color 17
 echo off
+
+:question
 cls
 echo Run as administrator for this to work!!!
-set /p q=Which windows version are you using?-
-if "%q%" == "windows 10" goto :10
-if "%q%" == "windows 8" goto :8
-if "%q%" == "windows 7" goto :8
-if "%q%" == "windows vista" goto :8
-if "%q%" == "windows xp" goto :8
+echo Type "1" for Windows 10.
+echo Type "2" for Windows 8, Windows 7, Windows Vista, or Windows XP.
+echo Type "3" if you do not know which version of Windows are you using.
+set /p q=
+if "%q%" == "1" goto :10
+if "%q%" == "2" goto :8
+if "%q%" == "3" goto :idk
+
+:idk
+cls
+winver
+pause
+goto :question
+
 
 :8
 cls
-echo windows 8 and below
+echo Windows 8, Windows 7, Windows Vista, and Windows XP
+echo "1" for Yes
+echo "2" for No
 set /p q2=Do you want to do a ping test?-
-if "%q2%" == "yes" goto :yes8
-if "%q2%" == "y" goto :yes8
-if "%q2%" == "n" goto :no8
-if "%q2%" == "no" goto :no8
+if "%q2%" == "1" goto :yes8
+if "%q2%" == "2" goto :no8
 
 :yes8
 cls
@@ -50,11 +60,11 @@ exit
 :10
 cls
 echo Windows 10
+echo "1" for Yes
+echo "2" for No
 set /p q1=Do you want to do a ping test?-
-if "%q1%" == "yes" goto :yes
-if "%q1%" == "y" goto :yes
-if "%q1%" == "n" goto :no
-if "%q1%" == "no" goto :no
+if "%q1%" == "1" goto :yes
+if "%q1%" == "2" goto :no
 
 :yes
 cls
