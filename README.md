@@ -9,6 +9,9 @@ This is a long time project that i have worked on over the years. Now that i am 
 
 Current stable version: V1.1 "Simplifying" update
 
+Notice: The developer of this script is requesting help. Please refer to the issues section.
+
+Any changes of the script are welcome as long as it improves the script.
 
 # Downloads
 
