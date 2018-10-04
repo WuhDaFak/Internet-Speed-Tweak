@@ -23,7 +23,7 @@ Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
 
 **Next release 1.2-** 
 
-Add registry script and tweaks.
+Registry tweaks and potential Redstone 5 TCP IP tweaks if applicable.
 
 
 **Far off (may or may not be removed from development)-**
