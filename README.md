@@ -21,12 +21,12 @@ Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
 
 # Upcoming changes:
 
-**Next release 1.2-** 
+**Next release 1.2** 
 
 Registry tweaks and potential Redstone 5 TCP IP tweaks if applicable.
 
 
-**Far off (may or may not be removed from development)-**
+**Far off (may or may not be removed from development)**
 
 Backup settings option. (unlikely to be developed but is considered.)
 
