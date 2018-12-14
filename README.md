@@ -23,7 +23,7 @@ Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
 
 **Next release 1.2** 
 
-Registry tweaks and potential Redstone 5 TCP IP tweaks if applicable.
+Registry tweaks
 
 
 **Far off (may or may not be removed from development)**
@@ -32,7 +32,11 @@ Backup settings option. (unlikely to be developed but is considered.)
 
 Restore defaults (For troubleshooting and fixing internet issues if any.)
 
+Connection test (Uses ping command and must be done after a reboot when applying tweaks to make sure settings take affect.) 
+
 
 # Dropped features or changes:
 
 User input without pressing enter.
+
+Redstone 5 tweaks (New settings are best when default.)
