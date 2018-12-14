@@ -15,7 +15,6 @@ if "%q%" == "3" goto :idk
 :idk
 cls
 winver
-pause
 goto :question
 
 
