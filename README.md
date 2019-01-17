@@ -7,7 +7,7 @@ very high internet speed this script is not for you as it may not be beneficial 
 
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
-Current stable version: V1.2.0
+Current stable version: V1.2.1
 
 Any changes of the script are welcome as long as it improves the script.
 
