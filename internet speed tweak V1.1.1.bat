@@ -39,10 +39,9 @@ cls
 netsh int tcp set global chimney=enabled
 netsh int tcp set global autotuninglevel=normal
 netsh int tcp set global congestionprovider=ctcp
-regedit.exe network.reg
+regedit.exe /S network.reg
 echo ________________________________________________________________________________
 echo We have changed settings that may speed up your internet connection
-echo but you need to restart computer.
 pause
 cls
 echo Here are the changes...
@@ -78,9 +77,9 @@ cls
 netsh int tcp set global autotuninglevel=normal
 netsh int tcp set global fastopen=enable
 netsh int tcp set supplemental internet congestionprovider=ctcp
-regedit.exe network.reg
+regedit.exe /S network.reg
 echo ________________________________________________________________________________
-echo You should restart your computer to apply settings.
+echo We have changed settings that may speed up your internet connection.
 pause
 cls
 echo Here are the changes made...
@@ -91,6 +90,7 @@ echo ............
 echo 1: "netsh int tcp set global autotuninglevel=normal"
 echo 2: "netsh int tcp set global fastopen=enable"
 echo 3: "netsh int tcp set supplemental internet congestionprovider=ctcp"
+echo You should restart your computer.
 pause
 cls
 exit
