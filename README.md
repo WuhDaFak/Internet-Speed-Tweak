@@ -21,9 +21,9 @@ Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
 
 # Upcoming changes:
 
-**Next major release 1.3.0** 
+**Next major release 1.2.0** 
 
-TBD
+TBD 
 
 
 
