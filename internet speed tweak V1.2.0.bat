@@ -1,3 +1,4 @@
+cd C:\IST
 color 17
 echo off
 
@@ -39,7 +40,7 @@ cls
 netsh int tcp set global chimney=enabled
 netsh int tcp set global autotuninglevel=normal
 netsh int tcp set global congestionprovider=ctcp
-regedit.exe /S network.reg
+reg.exe import network.reg
 echo ________________________________________________________________________________
 echo We have changed settings that may speed up your internet connection
 pause
