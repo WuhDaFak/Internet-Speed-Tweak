@@ -7,7 +7,7 @@ very high internet speed this script is not for you as it may not be beneficial 
 
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
-Current stable version: V1.1.1
+Current stable version: V1.2.0
 
 Any changes of the script are welcome as long as it improves the script.
 
@@ -21,7 +21,7 @@ Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
 
 # Upcoming changes:
 
-**Next major release 1.2.0** 
+**Next major release 1.3.0** 
 
 TBD 
 
@@ -31,9 +31,7 @@ TBD
 
 Backup settings option. (unlikely to be developed but is considered.)
 
-Restore defaults (For troubleshooting and fixing internet issues if any.)
-
-Connection test (Uses ping command and must be done after a reboot when applying tweaks to make sure settings take affect.) 
+Restore defaults (For troubleshooting and fixing internet issues if any.) 
 
 
 # Dropped features or changes:
