@@ -1,0 +1,1 @@
+Move this folder to C:\ and make sure it's not in any directory. Otherwise the reg file will not import into the registry due to a disk error.
