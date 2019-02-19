@@ -77,7 +77,7 @@ cls
 netsh int tcp set global autotuninglevel=normal
 netsh int tcp set global fastopen=enable
 netsh int tcp set supplemental internet congestionprovider=ctcp
-regedit.exe /S network.reg
+reg.exe import network.reg
 echo ________________________________________________________________________________
 echo We have changed settings that may speed up your internet connection.
 pause
