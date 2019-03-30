@@ -7,7 +7,9 @@ very high internet speed this script is not for you as it may not be beneficial 
 
 This is a long time project that i have worked on over the years. Now that i am out of school i have way more time to continue with my projects.
 
-Current stable version: V1.2.0
+As of 2019 it has been determined that this tool is useless and will no longer be developed anymore.
+
+Current stable version: V1.2.0 (final release)
 
 Any changes of the script are welcome as long as it improves the script.
 
@@ -19,23 +21,3 @@ or
 
 Download here: https://github.com/thepcwiz101/Internet-Speed-Tweak/releases
 
-# Upcoming changes:
-
-**Next major release 1.3.0** 
-
-TBD 
-
-
-
-**Far off (may or may not be removed from development)**
-
-Backup settings option. (unlikely to be developed but is considered.)
-
-Restore defaults (For troubleshooting and fixing internet issues if any.) 
-
-
-# Dropped features or changes:
-
-User input without pressing enter.
-
-Redstone 5 tweaks (New settings are best when default.)
